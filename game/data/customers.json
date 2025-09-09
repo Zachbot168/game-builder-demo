@@ -1,0 +1,5 @@
+[
+  {"name":"Azzu","species":"tentacled","quirk":null,"patience":18,"tip":[2,6]},
+  {"name":"Ignis","species":"fire_elemental","quirk":"heats_cafe","patience":14,"tip":[3,8]},
+  {"name":"Whim","species":"ghost","quirk":"invisible","patience":20,"tip":[1,5]}
+]

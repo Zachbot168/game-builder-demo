@@ -1,0 +1,5 @@
+[
+  {"id":"milky_way_mocha","name":"Milky Way Mocha","steps":["beans","milk","stardust"],"difficulty":1},
+  {"id":"flaming_meteor_espresso","name":"Flaming Meteor Espresso","steps":["beans","meteor_shot"],"difficulty":2},
+  {"id":"banishing_espresso","name":"Banishing Espresso","steps":["beans","moonlight","sigil"],"difficulty":2}
+]
